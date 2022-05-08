@@ -1,0 +1,11 @@
+fx_version 'cerulean'
+games { 'gta5' }
+
+client_scripts {
+    'config/config.lua',
+    'client/main.lua'
+}
+
+server_scripts {
+    'server/main.lua'
+}
